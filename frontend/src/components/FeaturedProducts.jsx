@@ -35,7 +35,7 @@ const FeaturedProducts = ({ featuredProducts }) => {
 	return (
 		<div className='py-12'>
 			<div className='container mx-auto px-4'>
-				<h2 className='text-center text-2xl sm:text-4xl font-bold text-emerald-300 mb-4'>বৈশিষ্ট্যযুক্ত পণ্যসমূহ সিলেক্ট করুন</h2>
+				<h2 className='text-center text-2xl sm:text-4xl font-bold text-yellow-300 mb-4'>বৈশিষ্ট্যযুক্ত পণ্যসমূহ সিলেক্ট করুন</h2>
 				<div className='relative'>
 					<div className='overflow-hidden'>
 						<div
