@@ -1,4 +1,5 @@
 <h1 align="center">E-Commerce 🛒</h1>
+<h2>Live Link: https://final-e-commerce-mern-stack-2.onrender.com/</h2>
 
 
 ### Setup .env file
